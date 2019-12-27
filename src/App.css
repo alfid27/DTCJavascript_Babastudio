@@ -1,0 +1,102 @@
+
+.kotak input{
+  border-radius: 20px; 
+}
+
+.bulet{
+  border-radius: 20px; 
+}
+
+#search{
+  width: 400px;
+  height: 45px;
+  
+}
+
+#oke{
+  position: relative;
+  -webkit-box-orient: horizontal;
+  height: 70px;
+  width: 100%;
+  background-color: #00a1e0!important;
+}
+
+.iya{
+  padding-top:5px ;
+}
+
+.sip {
+  margin-left: -42px;
+}
+
+.banner{
+  background-image: url('./images/banner-home-new.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(67,74,84,.3);
+  position: relative;
+  min-height: 506px;
+
+}
+
+.container {
+  max-width: 1160px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.banner .banner_content {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 30%;
+  text-align: center;
+}
+
+.banner .banner_content h1 {
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 58px;
+  margin-top: 0;
+  color: #222;
+}
+
+.properti {
+  height: 130px;
+  width: auto;
+  background-color: rgba(0,161,224,.2);
+  padding: 20px;
+}
+
+.properti ul li{
+  list-style: none; 
+  display: inline-block;
+}
+
+.metro{
+  margin-right: 30px;
+}
+
+.kompas{
+  margin-right: 30px;
+}
+
+.yahoo{
+  margin-right: 30px;
+}
+
+.detik{
+  margin-right: 30px;
+}
+
+.row{
+  margin-top: 30px;
+}
+
+.card{
+  margin-left: 30px;
+  margin-top: 30px;
+  padding: 10px;
+}
+

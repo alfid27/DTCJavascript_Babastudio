@@ -1,0 +1,16 @@
+
+
+navbar {
+  display: block;
+}
+
+.fixed {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  height: 65px;
+  z-index: 999;
+  -webkit-box-shadow: 0 4px 24px -4px rgba(0,0,0,.75);
+  -moz-box-shadow: 0 4px 24px -4px rgba(0,0,0,.75);
+  box-shadow: 0 4px 24px -4px rgba(0,0,0,.75);
+}
